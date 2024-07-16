@@ -1,4 +1,3 @@
-![wow](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
 <h1 align="center">Hi 👋, I'm Pixar</h1>
 
 <h3 align="center">I am an aspiring Java developer and study at the University of Information Technology, Mechanics and Optics, also known as ITMO.</h3>
