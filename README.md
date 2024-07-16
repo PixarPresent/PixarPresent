@@ -2,25 +2,21 @@
 
 <h3 align="center">I am an aspiring Java developer and study at the University of Information Technology, Mechanics and Optics, also known as ITMO.</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shadirmuhammedh" target="blank"><img src="https://img.shields.io/twitter/follow/shadirmuhammedh?logo=twitter&style=for-the-badge" alt="shadirmuhammedh" /></a> </p>
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [muhammedh-shadir](muhammedh-shadir)
+- 💬 Ask me about **What is the truth? it is only important to present convincingly**
 
-- 💬 Ask me about **MERN stack and related technologies**
+- 📫 How to reach me **pixarpresent@gmail.com**
 
-- 📫 How to reach me **muhammedhshadir@gmail.com**
-
-- ⚡ Fun fact **Football fanatic, Madridista**
+- ⚡ Fun fact **I like to play CS2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://x.com/PixarPresent]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PixarPresent" height="30" width="40" /></a>
+<a href="https://twitter.com/PixarPresent" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://web.facebook.com/muhammedh.shadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/muhammedh.shadir/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammedhshadir/" height="30" width="40" /></a>
 </p>
