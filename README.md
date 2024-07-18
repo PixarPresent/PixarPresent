@@ -18,8 +18,3 @@
 <a href="https://www.instagram.com/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammedhshadir/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedh-shadir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammedh-shadir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedh-shadir&show_icons=true&locale=en&theme=tokyonight" alt="muhammedh-shadir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedh-shadir&theme=tokyonight" alt="muhammedh-shadir" /></p>
