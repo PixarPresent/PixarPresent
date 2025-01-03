@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pixar</h1>
 
-<h3 align="center">I am an aspiring Java developer and study at the University of Information Technology, Mechanics and Optics, also known as ITMO.</h3>
-
 
 - 🌱 I’m currently learning **Java**
 
