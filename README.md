@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pixar</h1>
 
-
-- 🌱 I’m currently learning **Java**
-
 - 💬 Ask me about **What is the truth? it is only important to present convincingly**
 
 - 📫 How to reach me **pixarpresent@gmail.com**
-
-- ⚡ Fun fact **I like to play CS2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
